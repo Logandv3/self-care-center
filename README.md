@@ -8,7 +8,7 @@ How can I care for myself? One way is with affirmations and mantras!
 Affirmations are thoughts of positive self-empowerment, meant to assert your self-worth.
 Mantras are repetive phrases that are repeated again and again during mindfulness practices. This app is a reminder that will help you practice remembering your self worth!
 
-[Self Care Center](file:///Users/loganvincent/turing/mod-1/self-care-center/index.html)
+[Self Care Center](https://logandv3.github.io/self-care-center/)
 
 
 ## How It Works
